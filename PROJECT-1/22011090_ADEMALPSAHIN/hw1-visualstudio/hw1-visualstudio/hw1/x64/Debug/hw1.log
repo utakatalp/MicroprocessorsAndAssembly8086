@@ -1,0 +1,33 @@
+﻿  main.cpp
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(79,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(82,17): error C2065: 'MOV': undeclared identifier
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(82,21): error C2146: syntax error: missing ';' before identifier 'ECX'
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(82,21): error C2065: 'ECX': undeclared identifier
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(85,17): error C2146: syntax error: missing ';' before identifier 'outerLoop'
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(86,17): error C2065: 'MOV': undeclared identifier
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(86,21): error C2146: syntax error: missing ';' before identifier 'ESI'
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(86,21): error C2065: 'ESI': undeclared identifier
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(86,26): error C2065: 'ECX': undeclared identifier
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(87,17): error C2146: syntax error: missing ';' before identifier 'MOV'
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(87,17): error C2065: 'MOV': undeclared identifier
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(87,21): error C2146: syntax error: missing ';' before identifier 'AL'
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(87,21): error C2065: 'AL': undeclared identifier
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(87,31): error C2065: 'ESI': undeclared identifier
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(88,17): error C2146: syntax error: missing ';' before identifier 'NOT'
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(88,17): error C2065: 'NOT': undeclared identifier
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(88,21): error C2146: syntax error: missing ';' before identifier 'AL'
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(88,21): error C2065: 'AL': undeclared identifier
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(89,17): error C2146: syntax error: missing ';' before identifier 'MOV'
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(89,17): error C2065: 'MOV': undeclared identifier
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(89,21): error C2146: syntax error: missing ';' before identifier 'outputImage'
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(89,33): error C2065: 'ESI': undeclared identifier
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(89,39): error C2065: 'AL': undeclared identifier
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(90,17): error C2146: syntax error: missing ';' before identifier 'LOOP'
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(90,17): error C2065: 'LOOP': undeclared identifier
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(90,22): error C2146: syntax error: missing ';' before identifier 'outerLoop'
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(90,22): error C2065: 'outerLoop': undeclared identifier
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(98,5): error C2143: syntax error: missing ';' before '}'
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(142,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(152,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(163,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\adema\Desktop\Ders\Microp\OnemliOdev1\hw1-visualstudio\hw1-visualstudio\main.cpp(174,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
