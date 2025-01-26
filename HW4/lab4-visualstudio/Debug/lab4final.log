@@ -1,0 +1,36 @@
+﻿  lab4.cpp
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(60,15): error C2371: 'k': redefinition; different basic types
+      C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(18,20):
+      see declaration of 'k'
+  
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(65,14): error C2371: 'i': redefinition; different basic types
+      C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(60,9):
+      see declaration of 'i'
+  
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(65,17): error C2371: 'j': redefinition; different basic types
+      C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(60,12):
+      see declaration of 'j'
+  
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(65,27): error C2371: 'l': redefinition; different basic types
+      C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(60,18):
+      see declaration of 'l'
+  
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(66,14): error C2086: 'unsigned int matrix_value': redefinition
+      C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(56,14):
+      see declaration of 'matrix_value'
+  
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(67,14): error C2374: 'kernel_value': redefinition; multiple initialization
+      C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(56,28):
+      see declaration of 'kernel_value'
+  
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(68,14): error C2086: 'unsigned int sum': redefinition
+      C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(57,14):
+      see declaration of 'sum'
+  
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(202,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(203,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(222,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(223,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(243,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(244,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\lab4.cpp(270,19): warning C4018: '<': signed/unsigned mismatch

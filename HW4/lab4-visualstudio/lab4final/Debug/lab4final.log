@@ -1,0 +1,9 @@
+﻿  22011090.cpp
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\22011090.cpp(191,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\22011090.cpp(192,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\22011090.cpp(211,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\22011090.cpp(212,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\22011090.cpp(232,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\22011090.cpp(233,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\22011090.cpp(259,19): warning C4018: '<': signed/unsigned mismatch
+  lab4final.vcxproj -> C:\Users\adema\Desktop\Ders\Microp\Odev4\lab4-visualstudio\Debug\lab4final.exe
